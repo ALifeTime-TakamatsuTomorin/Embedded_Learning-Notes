@@ -11,8 +11,7 @@
 x² 写成 x<sup>2</sup>
 CO₂ 写成 CO<sub>2</sub>
 6. 强制换行
-第一行
-第二行
+第一行<br>第二行
 7. 分隔线 ---
 8. 链接
 打开 GitHub{:target="_blank"}
